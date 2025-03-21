@@ -15,13 +15,13 @@ Hello there! 👨‍💻 I'm **Jonas**, a dedicated student on a journey to beco
 
 ## 📊 GitHub Stats
 
-[![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonas-jungling&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/jonas-jungling/github-readme-stats)
+[![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jo-jun83&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/Jo-jun83/github-readme-stats)
 
 ---
 
 ## 🧰 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-jungling&layout=compact&theme=radical)](https://github.com/jonas-jungling/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-jun83&layout=compact&theme=radical)](https://github.com/Jo-jun83/github-readme-stats)
 
 ---
 
