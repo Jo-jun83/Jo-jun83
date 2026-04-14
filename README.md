@@ -13,15 +13,13 @@ Hello there! 👨‍💻 I'm **Jonas**, a dedicated student on a journey to beco
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
-[![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jo-jun83&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/Jo-jun83/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jo-jun83&theme=radical)](https://git.io/streak-stats)
 
----
+## 🏆 Trophies
 
-## 🧰 Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-jun83&layout=compact&theme=radical)](https://github.com/Jo-jun83/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jo-jun83&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
