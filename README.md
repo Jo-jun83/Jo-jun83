@@ -17,15 +17,33 @@ Hello there! 👨‍💻 I'm **Jonas**, a dedicated student on a journey to beco
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jo-jun83&theme=radical)](https://git.io/streak-stats)
 
-## 🏆 Trophies
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jo-jun83&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+## 🛠️ Tech Stack
+
+- C
+- Python
+- JavaScript
+- TypeScript
+- React
+- Flask
+- SQL
+- HTML / CSS
+
+---
+
+## 📌 Currently Working On
+
+- Improving my full-stack development skills  
+- Building real-world projects  
+- Exploring modern web technologies  
+- Growing as a developer step by step  
 
 ---
 
 ## 🤝 Let's Connect!
 
-💼 [LinkedIn](https://www.linkedin.com/in/jonas-jungling)  
+💼 [LinkedIn](https://www.linkedin.com/in/jonas-jungling)
 
 ---
 
